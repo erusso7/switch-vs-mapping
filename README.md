@@ -1,7 +1,7 @@
 # Simple `switch` vs Mapping benchmark
 The purpose of this class is to show how much slower is the `switch` statement against an array map with the available values.
 
-###Usage
+### Usage
 Just execute: 
 ```
 git clone https://github.com/erusso87/switch-vs-mapping.git
